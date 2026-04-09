@@ -1,3 +1,6 @@
 código del líder
 menú
 
+programador1 (actualiza menú)
+programador2 (implementa seguridad)
+

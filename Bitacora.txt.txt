@@ -1,5 +1,5 @@
 programadores actualice sus trabajos
 
 
-1- Programador 1 actualiza código de menu
-origin/Programador1
+1- Programador 1 actualiza código de menú
+2- Programador 2 implementa seguridad
